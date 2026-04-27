@@ -1,6 +1,6 @@
-# 🎮 Software Game Video Resource Library 🎬💻
+# 🎮 fenfen的软件游戏影视资源库 🎬💻
 
-> Free share of various computer software, popular games and high-definition video resources, continuously updated.
+> 免费分享各类电脑软件、热门游戏、超清电影电视剧资源，持续更新，永久免费！.
 
 ---
 
