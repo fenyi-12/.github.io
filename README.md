@@ -1,7 +1,7 @@
 
 ⚠️ 资源库访问说明
 
-1. 用这个稳定链接访问：https://fenyi-12.github.io
+1. 用这个稳定链接访问：https://fenfen.ysepan.com/
 
 2. 打开后会自动跳转到网盘，不用手动操作
 
